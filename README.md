@@ -1,3 +1,3 @@
 # stackoverpwn
 
-A group of privage researchers tinkering with bits and bytes.
+A group of private researchers tinkering with bits and bytes.
